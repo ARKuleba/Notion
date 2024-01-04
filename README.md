@@ -15,7 +15,7 @@
 **Redux**: Библиотека для управления состоянием приложения.
 **JSON Server**: Простой сервер для разработки и тестирования API с использованием JSON-файлов.
 ## Установка: 
-1. Клонируйте репозиторий: `git clone https://github.com/your-username/notion.git`
+1. Клонируйте репозиторий: `git clone https://github.com/ARKuleba/Notion.git`
 2. Перейдите в директорию проекта: `cd notion`
 3. Установите зависимости: `npm install`
 4. Запустите JSON Server: `npm run dev:db`
